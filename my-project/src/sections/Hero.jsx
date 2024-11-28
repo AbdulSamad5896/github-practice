@@ -4,7 +4,7 @@ import { assistantCardData } from "../constants"
 const Hero = () => {
   return (
     <div className="flex justify-center align-middle items-center p-10 bg-slate-50  h-screen">
-        <div className="w-[700px] h-[500px] bg-slate-100 rounded-xl shadow-2xl flex flex-col">
+        <div className="w-[700px] h-[500px] bg-slate-100 rounded-xl shadow-2xl flex flex-col bg-gradient-to-br from-yellow-50 via-violet-50  to-red-50">
             <div className="bg-slate-200 p-6 text-center font-mono text-xl">
                 <h1><b>Personal Digital Assistance</b></h1>
             </div>
