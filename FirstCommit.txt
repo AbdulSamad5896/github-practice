@@ -1,1 +1,2 @@
 This file for my First Commit. The merge conflict bt sumair shah.
+This file for my First Commit. and its samads Branch.
