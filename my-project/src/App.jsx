@@ -1,3 +1,4 @@
+import AnimalReview from "./sections/AnimalReview";
 import Hero from "./sections/Hero";
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <Hero/>
+      <AnimalReview/>
       
 
     </>

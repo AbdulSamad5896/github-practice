@@ -1,6 +1,11 @@
 import Alexa from '../assets/images/alexa.png';
 import Cortana from '../assets/images/cortana.png';
 import Siri from '../assets/images/siri.jpg';
+import Koala from '../assets/images/koala.png'
+import lion from '../assets/images/lion.png';
+import fox from '../assets/images/fox.png';
+import elephant from '../assets/images/elephant.png';
+import dog from '../assets/images/dog.png'
 
 
 const assistantCardData = [
@@ -24,4 +29,13 @@ const assistantCardData = [
     }
 ]
 
-export {assistantCardData};
+const animalsList = [
+    Koala, 
+    dog,
+    lion,
+    elephant,
+    fox
+]
+
+
+export {assistantCardData, animalsList};
